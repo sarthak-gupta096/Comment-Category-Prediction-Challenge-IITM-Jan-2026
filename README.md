@@ -47,7 +47,6 @@ This ensemble approach leverages the linear strengths of Logistic Regression and
  - Generates a submission.csv ready for competition ranking.
 
 ## 📁 Repository Structure
- - `Comment_Category_Dataset/` – Complete raw dataset
  - `ML_Notebook_IITM.ipynb` – Full end-to-end pipeline
  - `README.md` – Project overview
 
